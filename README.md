@@ -13,3 +13,15 @@ al día con todo lo relacionado al campus. Esperamos este proyecto te haga la na
 
 GUÍA DE INSTALACIÓN:
 
+1. Buscar la sección de ReleasesEntra a la página de GitHub del proyecto que quieres instalar.
+   * Mira en la barra lateral derecha de la página.
+   * Busca un apartado llamado Releases (Lanzamientos).
+   * Haz clic en la versión más reciente (suele decir Latest).
+2. Descargar el archivo correcto (Assets)Dentro de Releases, baja hasta la sección llamada Assets (Activos).
+   * Busca el archivo adecuado para tu computadora
+       Windows: Archivos con extensión .exe o .msi, o un archivo .zip portátil.
+       Mac: Archivos con extensión .dmg o.pkg.
+       Linux: Archivos con extensión .AppImage, .deb, .rpm o un archivo tarball (.tar.gz)
+   * Haz clic sobre el archivo para descargarlo.
+3. Instalar o ejecutar el programaVe a tu carpeta de Descargas.
+   Si descargaste un instalador (.exe, .pkg, etc.), hazle doble clic y sigue los pasos en pantalla como cualquier otro programa.Si descargaste un archivo comprimido (.zip o .tar.gz) o un archivo portable (.AppImage), descomprímelo o colócalo en la carpeta de tu        preferencia y haz doble clic en el archivo ejecutable para abrirlo
