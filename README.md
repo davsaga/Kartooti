@@ -13,6 +13,10 @@ al día con todo lo relacionado al campus. Esperamos este proyecto te haga la na
 
 GUÍA DE INSTALACIÓN:
 
+Para abrir Kartooti desde el navegador, debes hacer lo siguiente:
+
+//Proceso tentativo y genérico, hasta no tener el proyecto realizado completamente no haremos un proceso de instalación definitivo
+
 1. Buscar la sección de ReleasesEntra a la página de GitHub del proyecto que quieres instalar.
    * Mira en la barra lateral derecha de la página.
    * Busca un apartado llamado Releases (Lanzamientos).
